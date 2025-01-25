@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="firstName">diana</entry>
+    <entry key="lastName">yusupova</entry>
+    <entry key="age">18</entry>
+    <entry key="adress">mirzo ulugbek 122/62</entry>
+
+</properties>
+
