@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-01-25T16:19:28.320320100Z</date>
+  <millis>1737821968320</millis>
+  <nanos>320100</nanos>
+  <sequence>0</sequence>
+  <logger>modul4.classwork.less10.LoggerTest</logger>
+  <level>INFO</level>
+  <class>modul4.classwork.less10.LoggerTest</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>This not log test</message>
+</record>
+</log>

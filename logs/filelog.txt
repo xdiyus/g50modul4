@@ -1,0 +1,14 @@
+янв. 25, 2025 9:23:40 PM modul4.classwork.less10.LoggerTest main
+INFO: This not log test
+янв. 25, 2025 9:23:47 PM modul4.classwork.less10.LoggerTest main
+INFO: This not log test
+янв. 25, 2025 9:28:54 PM modul4.classwork.less10.LoggerTest main
+INFO: This not log test
+янв. 25, 2025 9:28:54 PM modul4.classwork.less10.LoggerTest main
+INFO: Bu log record
+янв. 25, 2025 9:28:54 PM modul4.classwork.less10.LoggerTest main
+INFO: Info: 
+янв. 25, 2025 9:28:54 PM modul4.classwork.less10.LoggerTest main
+SEVERE: Sevare: 
+янв. 25, 2025 9:28:54 PM modul4.classwork.less10.LoggerTest main
+WARNING: Warning: 
